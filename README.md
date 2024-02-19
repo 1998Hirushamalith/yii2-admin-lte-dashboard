@@ -17,6 +17,8 @@ features to your application.
 [![Total Downloads](https://img.shields.io/packagist/dt/yiisoft/yii2-app-basic.svg)](https://packagist.org/packages/yiisoft/yii2-app-basic)
 [![build](https://github.com/yiisoft/yii2-app-basic/workflows/build/badge.svg)](https://github.com/yiisoft/yii2-app-basic/actions?query=workflow%3Abuild)
 
+![image](https://github.com/1998Hirushamalith/yii2-admin-lte-dashboard/assets/130145482/eab485a5-7a3e-4f0f-bd2d-8aab82e5b09f)
+
 
 #### Application STRUCTURE
 -------------------
